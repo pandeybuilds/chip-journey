@@ -1,0 +1,15 @@
+What is the decimal value of binary 1011?	11 (8 + 0 + 2 + 1)
+What is 0xFF in decimal?	255
+How many distinct values can N bits represent?	2^N
+What is the range of an unsigned 8-bit number?	0 to 255
+Why does two's complement make subtraction "free" for hardware?	A − B = A + (two's complement of B), so the same adder circuit handles both add and subtract — no separate subtractor needed.
+How do you form the two's complement of a binary number?	Invert all bits (one's complement), then add 1.
+In 4-bit two's complement, what decimal is 1111?	−1
+What is the output of a 2-input AND gate when inputs are 1 and 0?	0
+What is the output of a 2-input OR gate when inputs are 1 and 0?	1
+What is the output of an XOR gate when both inputs are equal?	0
+What single gate type can build any logic circuit (functionally complete)?	NAND (also NOR). This is why Nand2Tetris starts from NAND.
+What does De Morgan's law say about NOT(A AND B)?	NOT(A AND B) = (NOT A) OR (NOT B)
+In a matrix multiply C = A·B, how is element C[i][j] computed?	The dot product of row i of A with column j of B (sum of element-wise products).
+For A (m×n) · B (n×p), what are the dimensions of the result?	m × p — inner dimensions (n) must match and cancel.
+Why does matrix multiply matter for AI hardware?	Neural network layers are mostly matrix multiplies; accelerators (TPUs/GPUs) are built to do them massively in parallel (e.g. systolic arrays).
