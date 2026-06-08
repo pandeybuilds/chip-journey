@@ -38,6 +38,7 @@ cards, plan next week. Then rest.
 ## How this repo is organized
 
 - [`ROADMAP.md`](ROADMAP.md) — the full L0→L6 ladder with checkboxes.
+- [`REFERENCES.md`](REFERENCES.md) — exact study material per week (links, what to skip).
 - [`PROGRESS.md`](PROGRESS.md) — streak tracker + artifacts shipped.
 - [`log/`](log/) — daily one-liners + weekly build-logs. Start from `_TEMPLATE.md`.
 - [`anki/`](anki/) — how I refuse to forget. Card rules + starter deck.

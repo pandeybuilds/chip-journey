@@ -14,7 +14,11 @@ compiles your future hardware designs into C++. CUDA is C-with-extensions. You d
 - `struct`, arrays, and how data sits in memory.
 - Compiling and running with `gcc`/`clang`; reading a segfault.
 
-**Resource:** Harvard **CS50** — the C weeks (free). Or a focused C primer if you prefer reading.
+**Resource (exact links in [`../../REFERENCES.md`](../../REFERENCES.md)):**
+- Harvard **CS50 — Week 1 (C)** for the language, and **Week 4 (Memory)** for pointers/addresses.
+  Those two weeks only — don't run the whole course, it's a detour.
+- *The C Programming Language* (K&R) as a nearby lookup reference, not a read-through.
+
 Lean on your Rust intuition; map each C concept to what Rust does for you automatically.
 
 ## Build (the artifact — ship by end of Week 6)

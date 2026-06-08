@@ -12,8 +12,12 @@ one, this has to be reflex — not something you look up.
 - Boolean algebra: AND, OR, NOT, XOR, NAND, NOR; truth tables; De Morgan's laws.
 - Functional completeness: why NAND alone can build everything (foreshadows Nand2Tetris).
 
-**Resource:** Khan Academy — digital logic / number systems. Watch → pause → reproduce on paper.
-Make Anki cards for every rule (the starter deck already seeds these).
+**Resource (exact links in [`../../REFERENCES.md`](../../REFERENCES.md)):**
+- Crash Course CS **#3 Boolean Logic & Logic Gates** + **#4 Binary** — the two core watches (~30 min).
+- For two's complement specifically, go deeper: Ben Eater's "Two's complement" video / the Wikipedia worked examples.
+- *(Not Khan Academy here — it's weak for digital logic. Khan comes back for linear algebra in Week 3.)*
+
+Watch → pause → reproduce on paper. Make Anki cards for every rule (the starter deck already seeds these).
 
 ## Build (the artifact — ship by end of Week 2)
 Pick Rust (you know it) or C. Two small programs, no libraries for the core logic:

@@ -14,9 +14,13 @@ a spine to hang on.
 - **Matrix multiplication** — the core. How `C[i][j]` is a dot product of a row and a column.
 - Dimensions: why (m×n)·(n×p) → (m×p), and why the inner dims must match.
 
-**Resource:** 3Blue1Brown — *Essence of Linear Algebra* (free, YouTube). It builds geometric
-intuition, not just mechanics. Watch → pause → reproduce each idea on paper or in code.
-Don't drown in proofs; you need fluency with matmul, not a math degree.
+**Resource (exact links in [`../../REFERENCES.md`](../../REFERENCES.md)):**
+- 3Blue1Brown *Essence of Linear Algebra* — **do chapters 1–4 only** (vectors → matrix
+  multiplication as composition, ~70 min). Skip determinants/eigen-stuff for now.
+- Khan Academy Linear Algebra — for *practice* exercises (Vectors + Multiplying matrices units).
+  This is where Khan is genuinely strong.
+
+Watch → pause → reproduce each idea on paper or in code. You need fluency with matmul, not a math degree.
 
 ## Build (the artifact — ship by end of Week 4)
 **`matmul`** in C (do it in C even though Rust is comfortable — it's the bridge to L5/CUDA):
