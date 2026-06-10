@@ -7,7 +7,7 @@ Goal: never two zero-days in a row. The chain is the whole game.
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Artifact shipped |
 |------|-----|-----|-----|-----|-----|-----|-----|------------------|
-| W01  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  | —                |
+| W01  |  x  |  x  |  ·  |  ·  |  ·  |  ·  |  ·  | —                |
 | W02  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  | —                |
 | W03  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  | —                |
 | W04  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  |  ·  | —                |
