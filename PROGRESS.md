@@ -20,7 +20,7 @@ Legend: `·` not yet · `x` full hour · `m` Minimum Viable Day · `—` rest
 
 | # | Date | What | Link |
 |---|------|------|------|
-| 1 | 2026-06-08 | Repo set up + mission written | `log/2026-06-08-day-001.md` |
+| 1 | 2026-06-08 | Repository set up and mission written | `log/2026-06-08.md` |
 
 ## Layer status
 
