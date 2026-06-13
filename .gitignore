@@ -4,5 +4,8 @@
 a.out
 target/
 .DS_Store
+# compiled C programs (the source files are kept, the binaries are not)
+base_convert
+bool_eval
 # anki media
 *.apkg
