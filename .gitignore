@@ -7,5 +7,8 @@ target/
 # compiled C programs (the source files are kept, the binaries are not)
 base_convert
 bool_eval
+# IDE and build folders (CLion / JetBrains)
+.idea/
+cmake-build-*/
 # anki media
 *.apkg
