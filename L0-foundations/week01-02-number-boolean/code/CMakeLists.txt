@@ -11,3 +11,9 @@ set(CMAKE_C_STANDARD 11)
 # Build a runnable program named "base_convert" from the source file base_convert.c.
 # When we add the second artifact later, we add another line just like this for it.
 add_executable(base_convert base_convert.c)
+
+# Build a runnable program consisting of all boolean operators
+add_executable(math math.c)
+
+#Build a runnable program with a while loop condition
+add_executable(to_binary to_binary.c)
